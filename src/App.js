@@ -59,7 +59,7 @@ function calculateTax(event) {
     }
     i++;
   }
-  console.log('PAYE: ', tax);
+  console.log('Your PAYE is: ', tax);
 }
 
 function getExemptions(income) {
